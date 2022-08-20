@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
--->
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnny-meneses-84520419/)
 
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menesesjohnny&layout=compact&theme=neon-palenight&lang_count=10" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=menesesjohnny&count_private=true&theme=neon-palenight&show_icons=true" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=menesesjohnny&theme=neon-palenight&hide_border=true" /></p>
+-->
